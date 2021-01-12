@@ -25,7 +25,7 @@
     "gulp-open": "^0.3.0",
     "gulp-rename": "^1.2.0",
     "http-proxy": "~1.1.4",
-    "require-dir": "^0.1.0",
+    "require-dir": "^0.3.2",
     "underscore": "~1.6.0"
   }
 }
